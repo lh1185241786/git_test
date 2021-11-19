@@ -7,5 +7,6 @@ public class GitTest {
         int i =1;
         System.out.println("1111111111");
         System.out.println(i);
+        System.out.println("123123123");
     }
 }
